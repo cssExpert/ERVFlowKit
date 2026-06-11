@@ -190,7 +190,7 @@ MIT License
 
 ---
 
-### Built with ❤️ by ERVFlow
+### Built with ❤️ by ERVFlow Team
 
 **Create. Customize. Scale.**
 **The UI toolkit built for modern web applications.**
